@@ -5,7 +5,7 @@ const ProjectsBtn = document.getElementById("ProjectsBtn");
 const ContactBtn = document.getElementById("ContactBtn");
 
 HomeBtn.addEventListener("click", function () {
-    window.location.href = "Home.html";
+    window.location.href = "index.html";
 });
 
 AboutBtn.addEventListener("click", function () {
